@@ -1,0 +1,42 @@
+.form-container{
+    width: 100%;
+    display: flex;
+}
+.form-left-container{
+    width: 50%;
+    height: calc(100vh - 60px);
+    background-image: linear-gradient(rgba(125, 170, 243, 0.5), rgba(0, 0, 255, 0.4)), url('../../assets/Form.jpg');;
+    background-size: cover;
+    padding: 30px;
+}
+.form-left-header{
+    font-size: 32px;
+    color: #4193A1;
+    font-weight: 600;
+}
+.form-left-tag{
+    margin-top: 100px;
+    color: #fff;
+}
+.form-tag-head{
+    font-size: 55px;
+    font-weight: 600;
+}
+.form-text{
+    font-size: 45px;
+    font-weight: 500;
+}
+.form-text-span{
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+.form-right-container{
+    width: 50%;
+    padding: 30px;
+}
+.login{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}

@@ -1,0 +1,30 @@
+.login-box{
+    font-size: 32px;
+    font-weight: 500;
+    opacity: 0.8;
+}
+.login-inputs{
+    display: grid;
+    gap: 20px;
+    width: 300px;
+    margin-top: 30px;
+}
+.email-input{
+    border: none;
+    background: #E1E1E1;
+    outline: none;
+    height: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.login-button{
+    border: none;
+    background: #2060E6;
+    outline: none;
+    padding: 5px;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+}
+
